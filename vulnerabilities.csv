@@ -1,0 +1,9 @@
+File Name,Issue,Line Number,Line Text
+unknown,Potential XSS vulnerability in `footerLinks` object:,,
+unknown,Potential open redirect vulnerability:,,
+unknown,Potential information disclosure through hard-coded URLs:,,
+unknown,Potential API call to backend:,,
+unknown,Potential use of potentially dangerous jQuery method:,,
+unknown,Potential use of potentially dangerous `window.location.href`:,,
+unknown,Potential lack of CSRF protection:,,
+unknown,Potential use of potentially dangerous `event.preventDefault()`:,,

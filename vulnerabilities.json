@@ -1,0 +1,50 @@
+[
+  {
+    "file": "unknown",
+    "issue": "Potential XSS vulnerability in `footerLinks` object:",
+    "line": "",
+    "code": ""
+  },
+  {
+    "file": "unknown",
+    "issue": "Potential open redirect vulnerability:",
+    "line": "",
+    "code": ""
+  },
+  {
+    "file": "unknown",
+    "issue": "Potential information disclosure through hard-coded URLs:",
+    "line": "",
+    "code": ""
+  },
+  {
+    "file": "unknown",
+    "issue": "Potential API call to backend:",
+    "line": "",
+    "code": ""
+  },
+  {
+    "file": "unknown",
+    "issue": "Potential use of potentially dangerous jQuery method:",
+    "line": "",
+    "code": ""
+  },
+  {
+    "file": "unknown",
+    "issue": "Potential use of potentially dangerous `window.location.href`:",
+    "line": "",
+    "code": ""
+  },
+  {
+    "file": "unknown",
+    "issue": "Potential lack of CSRF protection:",
+    "line": "",
+    "code": ""
+  },
+  {
+    "file": "unknown",
+    "issue": "Potential use of potentially dangerous `event.preventDefault()`:",
+    "line": "",
+    "code": ""
+  }
+]

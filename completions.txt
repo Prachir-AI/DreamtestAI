@@ -1,0 +1,2 @@
+Now, based on the provided code tell me the vulnerabilities as a Secure Code Reviewer to augment the sast lifecycle.
+Be creative but realistic in your suggestions. Output with each item on a new line.
